@@ -13,7 +13,7 @@ A sleek and interactive image gallery app built with React Native and Expo, feat
 📦 Installation & Setup
 1. Clone the Repository
 
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/Anirudh-gitprojects/Photo-Album-App.git
 cd your-repo
 
 2. Install Dependencies
